@@ -1,6 +1,5 @@
 class Solution {
     public int reverseDegree(String s) {
-        int arr[] = new int[26];
         int sum = 0;
         for(int i = 0; i < s.length(); i++){
             int mul = 1;
