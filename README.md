@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0657-robot-return-to-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
