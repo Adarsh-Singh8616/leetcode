@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0013-roman-to-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
