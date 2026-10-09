@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
