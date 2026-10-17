@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Linked List
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
