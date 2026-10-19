@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0657-robot-return-to-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
