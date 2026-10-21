@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -170,9 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
