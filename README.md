@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0048-rotate-image) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
