@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0048-rotate-image) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2413-smallest-even-multiple) |
