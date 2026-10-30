@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Quicksort
 |  |
 | ------- |
