@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
