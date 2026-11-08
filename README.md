@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1816-truncate-sentence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
