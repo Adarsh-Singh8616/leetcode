@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1103-distribute-candies-to-people](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
