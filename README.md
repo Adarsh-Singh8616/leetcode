@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
