@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
