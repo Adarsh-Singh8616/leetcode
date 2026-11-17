@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2582-pass-the-pillow](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2582-pass-the-pillow) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2582-pass-the-pillow](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2582-pass-the-pillow) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
