@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0908-smallest-range-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0561-array-partition) |
+| [0908-smallest-range-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/0908-smallest-range-i) |
 | [1122-relative-sort-array](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1122-relative-sort-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1816-truncate-sentence) |
