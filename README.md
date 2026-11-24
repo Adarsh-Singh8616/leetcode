@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2582-pass-the-pillow) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3894-traffic-signal-color) |
 ## Linked List
 |  |
 | ------- |
