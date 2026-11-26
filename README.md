@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Singh8616/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2582-pass-the-pillow](https://github.com/Adarsh-Singh8616/leetcode/tree/master/2582-pass-the-pillow) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3894-traffic-signal-color) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Adarsh-Singh8616/leetcode/tree/master/3663-find-the-least-frequent-digit) |
